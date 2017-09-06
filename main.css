@@ -1,0 +1,14 @@
+.robotoMono {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.card_margin {
+    margin: 20px;
+}
+
+.margin_main{
+    margin: 20px;
+}
+h1 {
+    padding: -40px !important;
+}
